@@ -46,4 +46,4 @@ project1/
 
 ## Preview
 
-![Job Cards Preview](./src/public/job-cards.png)
+![Job Cards Preview](./public/job-cards.png)
