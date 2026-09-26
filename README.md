@@ -43,3 +43,7 @@ project1/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+
+## Preview
+
+![Job Cards Preview](./images/job-cards.png)
